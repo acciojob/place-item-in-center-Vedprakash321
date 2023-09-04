@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
 .holder {
-    display: block; /* Use flexbox layout */
-    justify-content: center; /* Horizontally center the items */
-    align-items: center; /* Vertically center the items */
-    width: 100vw; /* Full viewport width */
-    height: 100vh; /* Full viewport height */
-/* 	  background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 100vw;
+    height: 100vh; 
+
 }
 
 /* Apply styles to item-1 */
